@@ -38,6 +38,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 ## Suspension Coil T-Test
+![normal](https://user-images.githubusercontent.com/69255270/123561141-9ebb4180-d75b-11eb-9a88-8c6de67276b1.jpg)
 
 Applying the one-sample t-test to assess if there is a statistical difference between the mean of the dataset and the mean of population ~1500
 
